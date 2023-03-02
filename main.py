@@ -1,12 +1,12 @@
-import main_Tiepo
-import main_Castellani
+import Michelotto_gruppo_6
+import Foli_gruppo_6
 
 def saluto_Alessandro_Mazzolena():
     print("Buongiorno, Alessandro Mazzolena")
 
 def main():
-    main_Tiepo.saluto_Mattia_Tiepo()
-    main_Castellani.saluto_Lorenzo_Castellani()
+    Michelotto_gruppo_6.saluto_Roberto_Michelotto_gruppo_6()
+    Foli_gruppo_6.saluto_Alex_Foli_gruppo_6()
     saluto_Alessandro_Mazzolena()
 
 
